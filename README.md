@@ -7,8 +7,7 @@ Atualmente, desenvolvo soluções multimodais para autenticação de documentos,
 ## ✨ Expertise
 
 Sou apaixonado por criar experiências interativas e intuitivas, focando em arquitetura robusta, clean code e integração de IA.  
-Tenho experiência em backend Java/Spring Boot, web frontend com Vue.js/Vuetify, mobile com Flutter/Dart, além de automação usando Docker e PostgreSQL.  
-Destaco meu interesse por projetos open source, inovação em RAG e aprendizado em prompt engineering.
+Tenho experiência em backend Java/Spring Boot, web frontend com Vue.js/Vuetify.
 
 ## 🚀 Tech Stack
 
@@ -20,9 +19,7 @@ Destaco meu interesse por projetos open source, inovação em RAG e aprendizado 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/henrique-da-silva/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white)](https://github.com/hcsilva)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/henrique-c-da-silva/)
 
 ---
 
