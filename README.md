@@ -1,53 +1,31 @@
 ---
-# 👋 Henrique da Silva (hcsilva)
+# 👋 Hi there
 
-Bem-vindo ao meu perfil no GitHub!  
-Sou desenvolvedor apaixonado por tecnologia e inovação, com experiência em várias linguagens e frameworks.  
-Aqui você encontra projetos pessoais, estudos, experimentos e soluções do mundo real.
+Sou Henrique da Silva, desenvolvedor de software e entusiasta de tecnologia. Tenho experiência com sistemas web, APIs escaláveis e integração de inteligência artificial utilizando Spring Boot, Ollama e ferramentas modernas.  
+Atualmente, desenvolvo soluções multimodais para autenticação de documentos, sistemas de eventos e aplicações AI-first. Já participei de hackathons como o NASA Space Apps Challenge, aplicando IA para análise de trilhas e prevenção de riscos ambientais.
 
-## 📊 **Estatísticas de Linguagens**
+## ✨ Expertise
 
-Meus repositórios abrangem as seguintes linguagens principais:
+Sou apaixonado por criar experiências interativas e intuitivas, focando em arquitetura robusta, clean code e integração de IA.  
+Tenho experiência em backend Java/Spring Boot, web frontend com Vue.js/Vuetify, mobile com Flutter/Dart, além de automação usando Docker e PostgreSQL.  
+Destaco meu interesse por projetos open source, inovação em RAG e aprendizado em prompt engineering.
 
-- **Java**: Microserviços, APIs REST, arquitetura limpa, projetos de estudo e soluções escaláveis.
-- **TypeScript**: Frontend reativo (Angular, Vue), integrações com IA, dashboards e aplicações completas.
-- **Dart**: Aplicações mobile multi-plataforma com Flutter, integrações backend.
-- **C++**: Exercícios, autenticação, consumo de APIs em apps Flutter.
-- **C#**: APIs RESTful e aplicações .NET Core para estudos e experimentos.
-- **HTML**: Projetos web, autenticação OAuth2, integrações com frameworks modernos.
-- **CMake**: Build scripts e projetos de estudo para Flutter.
-- **Vue.js**: Integrações com Google Books e estudos em frontend moderno.
+## 🚀 Tech Stack
 
-## 🚀 **Destaques de Projetos**
+|      |      |      |      |      |      |      |      |      |      |      |      |      |
+|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| ![Java](https://img.shields.io/badge/Java-green)       | ![SpringBoot](https://img.shields.io/badge/SpringBoot-darkgreen) | ![TypeScript](https://img.shields.io/badge/TypeScript-blue) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D) | ![Vuetify](https://img.shields.io/badge/Vuetify-1976D2) | ![Dart](https://img.shields.io/badge/Dart-0175C2) | ![Flutter](https://img.shields.io/badge/Flutter-02569B) | ![C++](https://img.shields.io/badge/C++-00599C) | ![C#](https://img.shields.io/badge/CSharp-239120) | ![HTML](https://img.shields.io/badge/HTML-E34F26) | ![Docker](https://img.shields.io/badge/Docker-2496ED) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791) | ![Ollama](https://img.shields.io/badge/Ollama-black) |
 
-| Repositório                                | Linguagem      | Descrição                                               |
-|---------------------------------------------|----------------|---------------------------------------------------------|
-| microservicesEmail                         | Java           | API para envio de e-mails com Spring Boot e microserviços |
-| path-wise-chatter                          | TypeScript     | Solução colaborativa com IA                             |
-| SpringFlutterBusReservation                | Dart           | App de reserva de ônibus utilizando Flutter e Spring    |
-| apiDotNetCore6, apiDotNet                  | C#             | APIs RESTful, .NET Core                                 |
-| flutter_autenticacao, flutterConsumesWebApi | C++            | Apps de autenticação e consumo de API via Flutter       |
-| SpringOAuth2, courseVue2Basic              | HTML           | Autenticação OAuth2 e curso de Vue.js                   |
-| vue-api-google-books, sistema_lives_online | Vue.js, TypeScript | Projetos web com Vue.js e Angular                      |
+*Backend, frontend e mobile. Especialista em microsserviços, RAG e integração de modelos de IA. Foco em projetos que geram impacto e escalabilidade.*
 
-## 📂 **Lista Completa de Linguagens Utilizadas**
+## 🌐 Socials
 
-- Java
-- TypeScript
-- Dart
-- C++
-- C#
-- HTML
-- CMake
-- Vue.js
-
-> Dê uma olhada nos meus repositórios públicos para ver exemplos em cada uma dessas linguagens!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/henrique-da-silva/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white)](https://github.com/hcsilva)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 ---
 
-## 📫 **Contato & Redes**
-
-- [LinkedIn](https://www.linkedin.com/in/henrique-da-silva/)
-- [E-mail](mailto:seuemail@exemplo.com)
+> "Não existe 'tentar'. Só fazer ou não fazer." — Yoda
 
 ---
